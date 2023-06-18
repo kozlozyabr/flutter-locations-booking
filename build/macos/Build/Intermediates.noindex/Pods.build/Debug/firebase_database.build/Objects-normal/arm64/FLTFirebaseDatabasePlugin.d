@@ -1,0 +1,75 @@
+dependencies: \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Intermediates.noindex/Pods.build/Debug/firebase_database.build/module.modulemap \
+  /Users/daniilskibinskij/.pub-cache/hosted/pub.dev/firebase_database-10.2.3/macos/Classes/FLTFirebaseDatabasePlugin.m \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/Target\ Support\ Files/firebase_database/firebase_database-prefix.pch \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Intermediates.noindex/Pods.build/Debug/firebase_core.build/module.modulemap \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Modules/module.modulemap \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterMacOS.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterAppDelegate.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterMacros.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterChannels.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterCodecs.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterDartProject.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterEngine.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPluginRegistrarMacOS.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPlatformViews.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPluginMacOS.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterTexture.h \
+  /Users/daniilskibinskij/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterViewController.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/Target\ Support\ Files/firebase_core/firebase_core-umbrella.h \
+  /Users/daniilskibinskij/.pub-cache/hosted/pub.dev/firebase_core-2.14.0/macos/Classes/FLTFirebaseCorePlugin.h \
+  /Users/daniilskibinskij/.pub-cache/hosted/pub.dev/firebase_core-2.14.0/macos/Classes/FLTFirebasePlugin.h \
+  /Users/daniilskibinskij/.pub-cache/hosted/pub.dev/firebase_core-2.14.0/macos/Classes/messages.g.h \
+  /Users/daniilskibinskij/.pub-cache/hosted/pub.dev/firebase_core-2.14.0/macos/Classes/FLTFirebasePluginRegistry.h \
+  /Users/daniilskibinskij/.pub-cache/hosted/pub.dev/firebase_database-10.2.3/macos/Classes/FLTFirebaseDatabaseObserveStreamHandler.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/Headers/Public/Firebase/Firebase.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FirebaseDatabase.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseDatabase.build/module.modulemap \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/Target\ Support\ Files/FirebaseDatabase/FirebaseDatabase-umbrella.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRDatabase.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRDatabaseReference.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRDataSnapshot.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRDatabaseQuery.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRDataEventType.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRMutableData.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRServerValue.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRTransactionResult.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FirebaseFirestore.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/module.modulemap \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/Target\ Support\ Files/FirebaseFirestore/FirebaseFirestore-umbrella.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRAggregateQuery.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRAggregateSource.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRAggregateQuerySnapshot.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRCollectionReference.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRQuery.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFirestoreSource.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRListenerRegistration.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRDocumentChange.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRDocumentReference.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRDocumentSnapshot.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFieldPath.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFieldValue.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFilter.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFirestore.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFirestoreErrors.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFirestoreSettings.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRGeoPoint.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRLoadBundleTask.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRLocalCacheSettings.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRQuerySnapshot.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRSnapshotMetadata.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRTimestamp.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRTransaction.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRTransactionOptions.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRWriteBatch.h \
+  /Users/daniilskibinskij/.pub-cache/hosted/pub.dev/firebase_database-10.2.3/macos/Classes/FLTFirebaseDatabasePlugin.h \
+  /Users/daniilskibinskij/.pub-cache/hosted/pub.dev/firebase_database-10.2.3/macos/Classes/FLTFirebaseDatabaseUtils.h

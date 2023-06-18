@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "e1c4af6a2c45340d3d64990692f74bb8879af78024f3955b338b9774679450c0"
+build_start_time: [1686953669, 676311000]
+build_end_time: [1686953669, 739397000]
+inputs:
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1686953621, 133189136]
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1686953621, 139097077]
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : !private [1686953621, 139642087]
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1686953621, 139805090]
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1686953621, 139948843]
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1686953621, 141777418]
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1686953621, 133356014]
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1686953621, 133009716]
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1686953621, 141973505]
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1686953621, 141572456]
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1686953621, 138752863]
+  ? "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1686953621, 139454667]

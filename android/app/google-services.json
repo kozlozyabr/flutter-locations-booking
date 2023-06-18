@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69950032683",
+    "project_id": "flutter-firebase-calendar",
+    "storage_bucket": "flutter-firebase-calendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69950032683:android:494342b308a4f2acfdd36e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69950032683-pjvudg53bhmggl6k90qjs3m0l5kslv59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKleI_BEI_2DIuR8qb-Nsj0t6X75BOdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69950032683-pjvudg53bhmggl6k90qjs3m0l5kslv59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

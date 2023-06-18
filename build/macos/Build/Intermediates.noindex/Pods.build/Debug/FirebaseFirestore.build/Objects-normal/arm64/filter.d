@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/core/src/core/filter.cc \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/core/src/core/filter.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/core/src/model/model_fwd.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/firestore/v1/document.nanopb.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/nanopb/pb.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/protobuf/struct.nanopb.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/protobuf/timestamp.nanopb.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/type/latlng.nanopb.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/optional.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/bad_optional_access.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/internal/optional.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h

@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/src/core/lib/experiments/config.cc \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/Target\ Support\ Files/gRPC-Core/gRPC-Core-prefix.pch \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/include/grpc/support/port_platform.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/include/grpc/impl/codegen/port_platform.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/src/core/lib/experiments/config.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/ascii.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/str_cat.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/numbers.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/endian.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/casts.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/unaligned_access.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/bits.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/internal/bits.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128_have_intrinsic.inc \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/str_split.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/raw_logging.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/atomic_hook.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/log_severity.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/internal/str_split_internal.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/strip.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/match.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/include/grpc/support/log.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/include/grpc/impl/codegen/log.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/src/core/lib/experiments/experiments.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/src/core/lib/gprpp/global_config.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/src/core/lib/gprpp/global_config_custom.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/src/core/lib/gprpp/global_config_env.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/src/core/lib/gprpp/global_config_generic.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/src/core/lib/gprpp/memory.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/include/grpc/support/alloc.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/src/core/lib/gprpp/no_destruct.h \
+  /Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/macos/Pods/gRPC-Core/src/core/lib/gprpp/construct_destruct.h
