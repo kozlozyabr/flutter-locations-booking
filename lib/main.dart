@@ -3,7 +3,6 @@ import 'package:flutter_application_2/booking_class.dart';
 import 'package:flutter_application_2/bookings_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'locations_bloc.dart';
 import 'add_locations.dart';
 import 'booked_locations.dart';
 import 'firebase_options.dart';
