@@ -1,10 +1,10 @@
 --- !tapi-tbd
 tbd-version:     4
-targets:         [ arm64-macos ]
+targets:         [ x86_64-macos ]
 flags:           [ not_app_extension_safe ]
 install-name:    '@rpath/GoogleUtilities.framework/Versions/A/GoogleUtilities'
 exports:
-  - targets:         [ arm64-macos ]
+  - targets:         [ x86_64-macos ]
     symbols:         [ _GULIsLoggableLevel, _GULLogBasic, _GULLogDebug, _GULLogError, 
                        _GULLogInfo, _GULLogNotice, _GULLogWarning, _GULLoggerEnableSTDERR, 
                        _GULLoggerForceDebug, _GULLoggerInitializeASL, _GULLoggerRegisterVersion, 

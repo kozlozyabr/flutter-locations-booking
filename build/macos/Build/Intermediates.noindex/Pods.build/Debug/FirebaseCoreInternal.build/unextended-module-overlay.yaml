@@ -4,20 +4,20 @@
   'case-sensitive': 'false',
   'roots': [{
     'type': 'directory',
-    'name': "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/FirebaseCoreInternal/FirebaseCoreInternal.framework/Modules"
+    'name': "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/FirebaseCoreInternal/FirebaseCoreInternal.framework/Modules"
     'contents': [{
       'type': 'file',
       'name': "module.modulemap",
-      'external-contents': "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/unextended-module.modulemap",
+      'external-contents': "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/unextended-module.modulemap",
     }]
     },
     {
     'type': 'directory',
-    'name': "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Products/Debug/FirebaseCoreInternal/FirebaseCoreInternal.framework/Headers"
+    'name': "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/FirebaseCoreInternal/FirebaseCoreInternal.framework/Headers"
     'contents': [{
       'type': 'file',
       'name': "FirebaseCoreInternal-Swift.h",
-      'external-contents': "/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/unextended-interface-header.h",
+      'external-contents': "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/unextended-interface-header.h",
     }]
     }]
 }

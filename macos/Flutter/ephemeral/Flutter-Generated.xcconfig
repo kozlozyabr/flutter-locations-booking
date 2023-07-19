@@ -1,13 +1,13 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/daniilskibinskij/flutter
-FLUTTER_APPLICATION_PATH=/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2
+FLUTTER_ROOT=/Users/skibfanovskii/flutter
+FLUTTER_APPLICATION_PATH=/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking
 COCOAPODS_PARALLEL_CODE_SIGN=true
-FLUTTER_TARGET=/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/lib/main.dart
+FLUTTER_TARGET=/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/lib/main.dart
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=1.0.0
 FLUTTER_BUILD_NUMBER=1
-DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8yYTM0MDFjOWJiYjVhOWE5YWVjNzRkNGY3MzVkMThhOWRkM2ViZjJkLw==
+DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==
 DART_OBFUSCATION=false
 TRACK_WIDGET_CREATION=true
 TREE_SHAKE_ICONS=false
-PACKAGE_CONFIG=/Users/daniilskibinskij/Desktop/scoool/FlutterDir/flutter_application_2/.dart_tool/package_config.json
+PACKAGE_CONFIG=/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/.dart_tool/package_config.json

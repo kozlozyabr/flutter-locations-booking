@@ -1,10 +1,10 @@
 --- !tapi-tbd
 tbd-version:     4
-targets:         [ arm64-macos ]
+targets:         [ x86_64-macos ]
 flags:           [ not_app_extension_safe ]
 install-name:    '@rpath/leveldb.framework/Versions/A/leveldb'
 exports:
-  - targets:         [ arm64-macos ]
+  - targets:         [ x86_64-macos ]
     symbols:         [ __ZN7leveldb10BuildTableERKNSt3__112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEEPNS_3EnvERKNS_7OptionsEPNS_10TableCacheEPNS_8IteratorEPNS_12FileMetaDataE, 
                        __ZN7leveldb10Compaction13ReleaseInputsEv, __ZN7leveldb10Compaction16ShouldStopBeforeERKNS_5SliceE, 
                        __ZN7leveldb10Compaction17AddInputDeletionsEPNS_11VersionEditE, 
@@ -370,5 +370,17 @@ exports:
                        __ZNSt3__17__sort4INS_17_ClassicAlgPolicyERPFbPN7leveldb12FileMetaDataES4_EPS4_EEjT1_S9_S9_S9_T0_, 
                        __ZNSt3__1lsINS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKc, 
                        __ZNSt3__1lsIcNS_11char_traitsIcEENS_9allocatorIcEEEERNS_13basic_ostreamIT_T0_EES9_RKNS_12basic_stringIS6_S7_T1_EE, 
+                       __ZTI20leveldb_comparator_t, __ZTI22leveldb_filterpolicy_t, 
+                       __ZTIN7leveldb11PosixLoggerE, __ZTIN7leveldb12SnapshotImplE, 
+                       __ZTIN7leveldb16MemTableIteratorE, __ZTIN7leveldb5Block4IterE, 
+                       __ZTIN7leveldb7Version20LevelFileNumIteratorE, __ZTINSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
+                       __ZTINSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
+                       __ZTINSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
+                       __ZTS20leveldb_comparator_t, __ZTS22leveldb_filterpolicy_t, 
+                       __ZTSN7leveldb11PosixLoggerE, __ZTSN7leveldb12SnapshotImplE, 
+                       __ZTSN7leveldb16MemTableIteratorE, __ZTSN7leveldb5Block4IterE, 
+                       __ZTSN7leveldb7Version20LevelFileNumIteratorE, __ZTSNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
+                       __ZTSNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
+                       __ZTSNSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
                        __ZZN7leveldb8SkipListIPKcNS_8MemTable13KeyComparatorEE12RandomHeightEvE10kBranching ]
 ...

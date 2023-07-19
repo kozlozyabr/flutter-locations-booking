@@ -1,0 +1,12 @@
+dependencies: \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/BoringSSL-GRPC/src/crypto/bn_extra/bn_asn1.c \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/Target\ Support\ Files/BoringSSL-GRPC/BoringSSL-GRPC-prefix.pch \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/BoringSSL-GRPC/src/include/openssl/bn.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/BoringSSL-GRPC/src/include/openssl/base.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/BoringSSL-GRPC/src/include/openssl/is_boringssl.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/BoringSSL-GRPC/src/include/openssl/opensslconf.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/BoringSSL-GRPC/src/include/openssl/boringssl_prefix_symbols.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/BoringSSL-GRPC/src/include/openssl/thread.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/BoringSSL-GRPC/src/include/openssl/bytestring.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/BoringSSL-GRPC/src/include/openssl/span.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/BoringSSL-GRPC/src/include/openssl/err.h

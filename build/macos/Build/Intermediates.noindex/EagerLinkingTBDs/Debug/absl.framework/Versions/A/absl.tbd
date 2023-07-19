@@ -1,10 +1,10 @@
 --- !tapi-tbd
 tbd-version:     4
-targets:         [ arm64-macos ]
+targets:         [ x86_64-macos ]
 flags:           [ not_app_extension_safe ]
 install-name:    '@rpath/absl.framework/Versions/A/absl'
 exports:
-  - targets:         [ arm64-macos ]
+  - targets:         [ x86_64-macos ]
     symbols:         [ __ZN4absl12lts_2022062310CHexEscapeENS0_11string_viewE, __ZN4absl12lts_2022062310CordBuffer12kCustomLimitE, 
                        __ZN4absl12lts_2022062310CordBuffer13kDefaultLimitE, __ZN4absl12lts_2022062310FormatTimeENS0_11string_viewENS0_4TimeENS0_8TimeZoneE, 
                        __ZN4absl12lts_2022062310FormatTimeENS0_4TimeE, __ZN4absl12lts_2022062310FormatTimeENS0_4TimeENS0_8TimeZoneE, 
@@ -352,13 +352,13 @@ exports:
                        __ZN4absl12lts_2022062318bad_variant_accessD2Ev, __ZN4absl12lts_2022062318container_internal10SampleSlowERNS1_13SamplingStateEm, 
                        __ZN4absl12lts_2022062318container_internal11kEmptyGroupE, 
                        __ZN4absl12lts_2022062318container_internal12UnsampleSlowEPNS1_14HashtablezInfoE, 
+                       __ZN4absl12lts_2022062318container_internal13GroupSse2Impl6kWidthE, 
                        __ZN4absl12lts_2022062318container_internal14HashtablezInfo14kMaxStackDepthE, 
                        __ZN4absl12lts_2022062318container_internal14HashtablezInfo18PrepareForSamplingExm, 
                        __ZN4absl12lts_2022062318container_internal14HashtablezInfoC1Ev, 
                        __ZN4absl12lts_2022062318container_internal14HashtablezInfoC2Ev, 
                        __ZN4absl12lts_2022062318container_internal14HashtablezInfoD1Ev, 
                        __ZN4absl12lts_2022062318container_internal14HashtablezInfoD2Ev, 
-                       __ZN4absl12lts_2022062318container_internal16GroupAArch64Impl6kWidthE, 
                        __ZN4absl12lts_2022062318container_internal16RecordInsertSlowEPNS1_14HashtablezInfoEmm, 
                        __ZN4absl12lts_2022062318container_internal19IsHashtablezEnabledEv, 
                        __ZN4absl12lts_2022062318container_internal20SetHashtablezEnabledEb, 
@@ -902,7 +902,7 @@ exports:
                        __ZN4absl12lts_2022062316strings_internal20Base64EscapeInternalINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEEvPKhmPT_bPKc, 
                        __ZN4absl12lts_2022062316strings_internal37STLStringResizeUninitializedAmortizedINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEEvPT_m, 
                        __ZN4absl12lts_2022062316strings_internal7CompareILi84ELi84EEEiRKNS1_11BigUnsignedIXT_EEERKNS3_IXT0_EEE, 
-                       __ZN4absl12lts_2022062318container_internal13TrailingZerosIyEEjT_, 
+                       __ZN4absl12lts_2022062318container_internal13TrailingZerosIjEEjT_, 
                        __ZN4absl12lts_2022062318container_internal19find_first_non_fullIvEENS1_8FindInfoEPKNS1_6ctrl_tEmm, 
                        __ZN4absl12lts_2022062318profiling_internal14SampleRecorderINS0_18container_internal14HashtablezInfoEE10UnregisterEPS4_, 
                        __ZN4absl12lts_2022062318profiling_internal14SampleRecorderINS0_18container_internal14HashtablezInfoEE13SetMaxSamplesEi, 
@@ -1053,6 +1053,16 @@ exports:
                        __ZNSt3__18seed_seq6__initIPjEEvT_S3_, __ZNSt3__1lsINS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKc, 
                        __ZNSt3__1lsINS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_c, 
                        __ZNSt3__1lsIcNS_11char_traitsIcEENS_9allocatorIcEEEERNS_13basic_ostreamIT_T0_EES9_RKNS_12basic_stringIS6_S7_T1_EE, 
+                       __ZTINSt3__110__function6__baseIFNS_10unique_ptrIN4absl12lts_2022062313time_internal4cctz14ZoneInfoSourceENS_14default_deleteIS7_EEEERKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEEE, 
+                       __ZTINSt3__113basic_filebufIcNS_11char_traitsIcEEEE, __ZTINSt3__114basic_ifstreamIcNS_11char_traitsIcEEEE, 
+                       __ZTINSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
+                       __ZTINSt3__117bad_function_callE, __ZTINSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
+                       __ZTINSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
+                       __ZTSNSt3__110__function6__baseIFNS_10unique_ptrIN4absl12lts_2022062313time_internal4cctz14ZoneInfoSourceENS_14default_deleteIS7_EEEERKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEEE, 
+                       __ZTSNSt3__113basic_filebufIcNS_11char_traitsIcEEEE, __ZTSNSt3__114basic_ifstreamIcNS_11char_traitsIcEEEE, 
+                       __ZTSNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
+                       __ZTSNSt3__117bad_function_callE, __ZTSNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
+                       __ZTSNSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE, 
                        __ZZN4absl12lts_2022062313base_internal12CallOnceImplIRFvvEJEEEvPNSt3__16atomicIjEENS1_14SchedulingModeEOT_DpOT0_E5trans ]
     thread-local-symbols: [ __ZN4absl12lts_2022062313base_internal19thread_identity_ptrE ]
 ...

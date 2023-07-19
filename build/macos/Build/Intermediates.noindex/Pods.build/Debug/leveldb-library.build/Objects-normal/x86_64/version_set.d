@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/db/version_set.cc \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/Target\ Support\ Files/leveldb-library/leveldb-library-prefix.pch \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/db/version_set.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/db/dbformat.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/comparator.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/export.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/db.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/iterator.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/slice.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/status.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/options.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/filter_policy.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/table_builder.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/util/coding.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/port/port.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/port/port_stdcxx.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/port/thread_annotations.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/util/logging.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/db/version_edit.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/db/filename.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/db/log_reader.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/db/log_format.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/db/log_writer.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/db/memtable.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/db/skiplist.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/util/arena.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/util/random.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/db/table_cache.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/cache.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/table.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/include/leveldb/env.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/table/merger.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/leveldb-library/table/two_level_iterator.h

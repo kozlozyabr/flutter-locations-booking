@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "8d9bf50bf8d6b5ffea02210ef68c96b42a6c8f5212bf0f2431b75147350bca8b"
+build_start_time: [1689144014, 806613000]
+build_end_time: [1689144158, 770486000]
+inputs:
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1689143653, 726277207]
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1689143653, 726576152]
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1689143653, 726797268]
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1689143653, 726908055]
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1689143653, 727016800]
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1689143653, 727224791]
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1689143653, 726375203]
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1689143653, 726178128]
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1689143653, 727340952]
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1689143653, 727122337]
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1689143653, 726474074]
+  ? "/Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1689143653, 726682981]

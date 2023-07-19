@@ -1,9 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_2/booking_class.dart';
+import 'package:flutter_application_2/bookings_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'locations_bloc.dart';
 import 'add_locations.dart';
 import 'booked_locations.dart';
+import 'firebase_options.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -16,8 +19,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Navigation',
-      home: BlocProvider(
-        create: (_) => NavigationBloc(),
+      home: RepositoryProvider(
+        create: (context) => BookingsRepository(),
         child: HomePage(),
       ),
       routes: {
@@ -31,10 +34,9 @@ class MyApp extends StatelessWidget {
 class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final navigationBloc = BlocProvider.of<NavigationBloc>(context);
     return Scaffold(
       appBar: AppBar(
-        title: Text('Home Page'),
+        title: const Text('Home Page'),
       ),
       body: Center(
         child: Column(

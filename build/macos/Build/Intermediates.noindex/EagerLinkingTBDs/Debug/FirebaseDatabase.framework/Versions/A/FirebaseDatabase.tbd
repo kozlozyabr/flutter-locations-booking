@@ -1,10 +1,10 @@
 --- !tapi-tbd
 tbd-version:     4
-targets:         [ arm64-macos ]
+targets:         [ x86_64-macos ]
 flags:           [ not_app_extension_safe ]
 install-name:    '@rpath/FirebaseDatabase.framework/Versions/A/FirebaseDatabase'
 exports:
-  - targets:         [ arm64-macos ]
+  - targets:         [ x86_64-macos ]
     symbols:         [ _APLevelDBErrorDomain, _FFIsLoggingEnabled, _FSRWebSocketErrorDomain, 
                        _FirebaseDatabaseVersionNumber, _FirebaseDatabaseVersionString, 
                        _base1_2List_free, _base1_2List_new, _base1_2List_next, _canBeRepresentedAsLong, 

@@ -1,11 +1,11 @@
 --- !tapi-tbd
 tbd-version:     4
-targets:         [ arm64-macos ]
+targets:         [ x86_64-macos ]
 flags:           [ not_app_extension_safe ]
 install-name:    '@rpath/FirebaseCoreInternal.framework/Versions/A/FirebaseCoreInternal'
 swift-abi-version: 7
 exports:
-  - targets:         [ arm64-macos ]
+  - targets:         [ x86_64-macos ]
     symbols:         [ '_$s10Foundation4DataV20FirebaseCoreInternalE16base64URLEncoded7optionsACSgSS_So27NSDataBase64DecodingOptionsVtcfC', 
                        '_$s10Foundation4DataV20FirebaseCoreInternalE22base64URLEncodedString7optionsSSSo27NSDataBase64EncodingOptionsV_tF', 
                        '_$s10Foundation4DataV20FirebaseCoreInternalE6zippedACyKF', 
@@ -252,7 +252,10 @@ exports:
                        '_$s20FirebaseCoreInternal9HeartbeatVSQAAMc', '_$s20FirebaseCoreInternal9HeartbeatVSeAAMc', 
                        '_$sSo13NSFileManagerC20FirebaseCoreInternalE27applicationSupportDirectory10Foundation3URLVvg', 
                        '_$sSo13NSFileManagerC20FirebaseCoreInternalE27applicationSupportDirectory10Foundation3URLVvpMV', 
-                       _FirebaseCoreInternalVersionNumber, _FirebaseCoreInternalVersionString ]
+                       _FirebaseCoreInternalVersionNumber, _FirebaseCoreInternalVersionString, 
+                       _Swift50Overrides, _Swift51Overrides, __Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE, 
+                       __ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E, 
+                       __ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E ]
     objc-classes:    [ FIRHeartbeatController, FIRHeartbeatLoggingTestUtils, FIRHeartbeatsPayload, 
                        PodsDummy_FirebaseCoreInternal ]
 ...

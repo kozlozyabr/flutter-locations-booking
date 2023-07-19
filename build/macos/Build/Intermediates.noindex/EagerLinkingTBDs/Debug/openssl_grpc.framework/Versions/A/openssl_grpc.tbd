@@ -1,10 +1,10 @@
 --- !tapi-tbd
 tbd-version:     4
-targets:         [ arm64-macos ]
+targets:         [ x86_64-macos ]
 flags:           [ not_app_extension_safe ]
 install-name:    '@rpath/openssl_grpc.framework/Versions/A/openssl_grpc'
 exports:
-  - targets:         [ arm64-macos ]
+  - targets:         [ x86_64-macos ]
     symbols:         [ _GRPC_ACCESS_DESCRIPTION_free, _GRPC_ACCESS_DESCRIPTION_it, 
                        _GRPC_ACCESS_DESCRIPTION_new, _GRPC_AES_CMAC, _GRPC_AES_cbc_encrypt, 
                        _GRPC_AES_cfb128_encrypt, _GRPC_AES_ctr128_encrypt, _GRPC_AES_decrypt, 
@@ -1065,9 +1065,9 @@ exports:
                        _GRPC_c2i_ASN1_INTEGER, _GRPC_c2i_ASN1_OBJECT, _GRPC_cbb_add_latin1, 
                        _GRPC_cbb_add_ucs2_be, _GRPC_cbb_add_utf32_be, _GRPC_cbb_add_utf8, 
                        _GRPC_cbb_get_utf8_len, _GRPC_cbs_get_latin1, _GRPC_cbs_get_ucs2_be, 
-                       _GRPC_cbs_get_utf32_be, _GRPC_cbs_get_utf8, _GRPC_d2i_ACCESS_DESCRIPTION, 
-                       _GRPC_d2i_ASN1_BIT_STRING, _GRPC_d2i_ASN1_BMPSTRING, _GRPC_d2i_ASN1_BOOLEAN, 
-                       _GRPC_d2i_ASN1_ENUMERATED, _GRPC_d2i_ASN1_GENERALIZEDTIME, 
+                       _GRPC_cbs_get_utf32_be, _GRPC_cbs_get_utf8, _GRPC_crypto_gcm_clmul_enabled, 
+                       _GRPC_d2i_ACCESS_DESCRIPTION, _GRPC_d2i_ASN1_BIT_STRING, _GRPC_d2i_ASN1_BMPSTRING, 
+                       _GRPC_d2i_ASN1_BOOLEAN, _GRPC_d2i_ASN1_ENUMERATED, _GRPC_d2i_ASN1_GENERALIZEDTIME, 
                        _GRPC_d2i_ASN1_GENERALSTRING, _GRPC_d2i_ASN1_IA5STRING, _GRPC_d2i_ASN1_INTEGER, 
                        _GRPC_d2i_ASN1_NULL, _GRPC_d2i_ASN1_OBJECT, _GRPC_d2i_ASN1_OCTET_STRING, 
                        _GRPC_d2i_ASN1_PRINTABLE, _GRPC_d2i_ASN1_PRINTABLESTRING, 

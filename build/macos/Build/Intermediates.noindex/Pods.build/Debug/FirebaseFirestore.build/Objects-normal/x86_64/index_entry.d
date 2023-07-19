@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseFirestore/Firestore/core/src/index/index_entry.cc \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseFirestore/Firestore/core/src/index/index_entry.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseFirestore/Firestore/core/src/model/document_key.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/optional.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/bad_optional_access.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/internal/optional.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseFirestore/Firestore/core/src/util/comparison.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseFirestore/Firestore/core/src/util/hashing.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseFirestore/Firestore/core/src/objc/objc_type_traits.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/macos/Pods/FirebaseFirestore/Firestore/core/src/util/type_traits.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/str_cat.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/numbers.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/endian.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/casts.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/unaligned_access.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/bits.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/internal/bits.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128.h \
+  /Users/skibfanovskii/Desktop/Flutter_projects/test/flutter-locations-booking/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128_have_intrinsic.inc

@@ -1,10 +1,10 @@
 --- !tapi-tbd
 tbd-version:     4
-targets:         [ arm64-macos ]
+targets:         [ x86_64-macos ]
 flags:           [ not_app_extension_safe ]
 install-name:    '@rpath/nanopb.framework/Versions/A/nanopb'
 exports:
-  - targets:         [ arm64-macos ]
+  - targets:         [ x86_64-macos ]
     symbols:         [ _nanopbVersionNumber, _nanopbVersionString, _pb_close_string_substream, 
                        _pb_decode, _pb_decode_bool, _pb_decode_delimited, _pb_decode_delimited_noinit, 
                        _pb_decode_fixed32, _pb_decode_fixed64, _pb_decode_noinit, 
